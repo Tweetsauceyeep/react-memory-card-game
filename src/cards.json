@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ethan",
+    "image": "christian-buehner-DItYlc26zVI-unsplash.jpg",
+    "key": "Ethan1",
+    "clicked": false
+  },
+  {
+    "name": "Arab man",
+    "image": "irene-strong-v2aKnjMbP_k-unsplash.jpg",
+    "key": "Arabman2",
+    "clicked": false
+  },
+  {
+    "name": "don Qui",
+    "image": "janko-ferlic-G-jo31ESuRE-unsplash.jpg",
+    "key": "Donqui3",
+    "clicked": false
+  },
+  {
+    "name": "shawtee B.",
+    "image": "jonas-kakaroto-KIPqvvTOC1s-unsplash (1).jpg",
+    "key": "shawteeB4",
+    "clicked": false
+  }
+]
