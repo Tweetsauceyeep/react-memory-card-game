@@ -1,8 +1,12 @@
-import React, {useState} from 'react'
+import React, {useState} from 'react';
 
-const Scoreboard = ({score}) =>{
-  return <div>{score}</div>
-}
+const Scoreboard = ({score, prevHighScore}) => {
+  return (
+    <div>
+      <div>Your Current Score is: {score}</div>
+      <div>Your Previous High Score is {prevHighScore}</div>
+    </div>
+  );
+};
 
-export default Scoreboard
-
+export default Scoreboard;
